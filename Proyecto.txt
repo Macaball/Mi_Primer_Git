@@ -1,0 +1,21 @@
+Describe que hacen los siguientes comandos de git, escribe su descripcion al frente en una sola linea.
+
+git status: Este comando se usa para obtener el estado actual del repositorio
+
+git clone:Se puede bajar un codigo que ya se este usando, y se descarga para hacer cambios.
+
+git pull:Es para descargar el codigo
+
+git checkout:Se utiliza para cambiar las branch
+
+git log:Se utiliza para ver los commit
+
+git branch:Permite crear,enumerar y eliminar ramas, asi como cambiar su nombre
+
+git add: Añade un cambio del directorio de trabajo en el entorno de ensayo
+
+git commit:sirve para confirmar una instantánea del directorio del entorno de ensayo en el historial de confirmaciones de los repositorios.
+
+git push:Se utiliza para subir el codigo
+
+git merge:La fusión es la forma que tiene Git de volver a unir un historial bifurcado
